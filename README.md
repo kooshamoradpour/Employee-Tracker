@@ -1,4 +1,4 @@
-# 10 SQL: Employee Tracker
+# SQL: Employee Tracker
 
 ## User Story
 
