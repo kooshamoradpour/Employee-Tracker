@@ -1,6 +1,6 @@
 # SQL: Employee Tracker
 # Video link:
-https://drive.google.com/file/d/12iZf-PN67W6uIVKzdtIptNxK64XA7fzD/view?usp=sharingLinks to an external site.
+https://drive.google.com/file/d/12iZf-PN67W6uIVKzdtIptNxK64XA7fzD/view?usp=sharingLinks
 
 ## User Story
 
